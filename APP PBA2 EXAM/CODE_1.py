@@ -1,4 +1,4 @@
-
+file = open("data.txt", "r")
 line_number = 0
 file = open("data.txt", "r") 
 longest_line = ""
